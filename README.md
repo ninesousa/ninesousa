@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+
+:octocat:
+
+Olá! Me chamo Aline ::smile: , sou curiosa e estou iniciando meus estudos realizando o bootcamp da DIO.
+
+[![GitHub](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=github&logoColor=191970)](https://github.com/ninesousa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=191970)](https://www.linkedin.com/in/aline-s-lima) 
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ninesousa&layout=compact&bg_color=FFF&border_color=30A3DC&title_color=E94D5F&text_color=000)
