@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+:octocat:
 <!--
 **ninesousa/ninesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-
-:octocat:
-
-Olá! Me chamo Aline ::smile: , sou curiosa e estou iniciando meus estudos realizando o bootcamp da DIO.
+Me chamo Aline :smile: 
 
 [![GitHub](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=github&logoColor=191970)](https://github.com/ninesousa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=191970)](https://www.linkedin.com/in/aline-s-lima) 
